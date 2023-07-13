@@ -1030,3 +1030,5 @@ bidence.com, 4a87393d59a18d4bbfb5326c5d98051a, RESELLER
 loopme.com, 11605, RESELLER, 6c8d5f95897a5a3b
 Xapads.com, 155860, RESELLER
 betweendigital.com, 45117, RESELLER
+video.unrulymedia.com, 1876793108340587286, RESELLER
+omnifytv.com, 05096ffe925c11eda1eb0242ac120002, RESELLER
