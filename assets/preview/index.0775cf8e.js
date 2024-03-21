@@ -1,0 +1,1 @@
+import{w as n,p as s}from"../comlink.bfd883af.js";window.addEventListener("DOMContentLoaded",async()=>{const e=document.querySelector(".preview"),r=new SharedWorker("/assets/worker.095aea1c.js",{type:"module"});n(r.port).subscribe(s(o=>{e.innerHTML=o.compiled}))});
