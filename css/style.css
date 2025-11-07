@@ -163,7 +163,7 @@ body{
 	  height: 600px;
 	  background-size: cover;
 	  background-position: center;
-	  animation: bgSlide 20s infinite;
+	  animation: bgSlide 30s infinite;
 }
 .home::before {
   content: "";
@@ -185,7 +185,7 @@ body{
   0%   { background-image: url('../images/banner_phone_cleaner.png'); }
   33%  { background-image: url('../images/banner_fit_ness.png'); }
   66%  { background-image: url('../images/banner_color_widgets.png'); }
-  100%  { background-image: url('../images/banner_phone_cleaner.png'); }
+  100%  { background-image: url('../images/banner_4.png'); }
 }
 
 .home h1{
